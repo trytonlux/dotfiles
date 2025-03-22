@@ -1,5 +1,7 @@
 # Dotfiles
 
+> this is superseded by https://github.com/tuque-os/workstation
+
 Dotfiles and system configuration, for Fedora Workstation, managed by Ansible.
 
 ```
